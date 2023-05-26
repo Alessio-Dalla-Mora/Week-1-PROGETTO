@@ -1,1 +1,68 @@
 /* Your styles here */
+button {
+    background-color: #f04c2f;
+}
+body {
+    color: #393d41;
+    font-size: 1.2rem;
+    font-family:'Open Sans', 'Helvetica Neue', sans-serif;
+}
+footer { color: #c8e7f0;
+    background-color: #25a2c3;
+}
+h2 {
+    font-weight: bold;
+    color: white;
+}
+h3 {
+    color: white;
+    font-weight: bold;
+}
+
+a {
+    text-align: center;
+}
+.box {
+    border: 1px0.2em solid #e22d0e;
+    background-color: #e22d0e;
+    margin: 30px;
+    text-align: center;
+}
+h1 {
+    text-align: center;
+    font-size: 1.3em;
+    color: #25a2c3;
+    padding: 10px;
+    font-weight: bold;
+}
+.header {
+ text-align: center;
+ background-image: url(../css/images/banner.jpg);
+ background-size: contain;
+}
+
+p {
+    text-align: center;
+    font-size: 1.1em;
+    padding: 15px;
+}
+.title {
+    color: #25a2c3;
+    font-size: 1.4em;
+    font-weight: bold;
+}
+#logo {
+    background-color: black;
+}
+img {width: 390px;
+    max-width: 100%;
+}
+h4 {
+    color: white;
+    font-family: 'Quicksand', sans-serif;
+}
+h6{
+    color: white;
+    font-size: small;
+}
+
